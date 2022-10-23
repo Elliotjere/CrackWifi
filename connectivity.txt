@@ -1,17 +1,1 @@
-Desktop
-Documents
-Downloads
-hackwifi
-moneroocean
-Music
-Pictures
-PlayOnLinux's virtual drives
-Public
-rockyou.txt
-snap
-Templates
-testdisk.log
-Videos
-wifi
-winehq.key
-xmrig
+
